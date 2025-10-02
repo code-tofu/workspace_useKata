@@ -1,5 +1,6 @@
-# Leetcode/CodeWars/HackerRank Practice
-while (alive) { eat (); code (); sleep (); repeat (); }
+# Leetcode/CodeWars/HackerRank
+
+`while (alive) { eat (); code (); sleep (); repeat (); }`
 
 https://docs.codewars.com/concepts/kata/
 > What is Kata?
